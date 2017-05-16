@@ -8,6 +8,10 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
+## Fork Description
+
+This is a forked version of StockEye, updated to python3, for use in the Hunch project. 
+
 ## Install
 ```python
 pip install stockeye
